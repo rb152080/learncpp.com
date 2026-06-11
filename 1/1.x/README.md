@@ -1,0 +1,3 @@
+quiz
+1. initialization declares and defines a variable and sets a default value to it, assignment copies a value into the variable's address. initialization can only happen once, assignment can happen infinite number of times (initialization sets initial value when it is created, assignment gives value after it has been defined)
+2. undefined behavior happens because the c++ language doesn't have any defined behavior for that action. the consequences are we don't know what the output could be; it could be right, wrong, or not make any sense (undefined behavior = ill-specified)
