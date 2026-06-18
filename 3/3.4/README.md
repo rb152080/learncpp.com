@@ -1,0 +1,2 @@
+- debugging using print statements
+- not the best way
