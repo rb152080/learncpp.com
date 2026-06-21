@@ -1,0 +1,2 @@
+- binary digit = bit\
+- `std::nullptr_t` uses a `_t`, which means type

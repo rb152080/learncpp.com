@@ -1,0 +1,3 @@
+- best practice: avoid signed ints whenever possible
+- use them for bit manipulation
+- use them for array indexing
