@@ -1,0 +1,1 @@
+- `std::cin.get()` lets you extract characters
