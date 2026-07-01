@@ -1,0 +1,1 @@
+- use `%` modulo against `0`, works without worrying about negative and positive numbers
