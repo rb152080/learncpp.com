@@ -2,4 +2,4 @@
 
 notes from learncpp.com
 
-leftoff 6.7
+leftoff 6.8
