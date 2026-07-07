@@ -1,0 +1,1 @@
+- you can write `(x % 2) == 0` as `!(x % 2)`
