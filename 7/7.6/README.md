@@ -1,0 +1,5 @@
+- non-const global variables have external linkage by default
+- you can give it `static` to make in internal
+- const global has internal by default
+- constexpr global has internal by default
+- functions default to external by default but you can put `static` to make it internal
