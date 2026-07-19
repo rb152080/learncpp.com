@@ -1,0 +1,2 @@
+- best practice: don't use `goto`s unless it improves code readability significantly
+- my note: will probably use when trying to jump out of a $n$-nested `for` loop
