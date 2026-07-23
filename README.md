@@ -2,4 +2,4 @@
 
 - notes from learncpp.com
 - skipped O chapter (bit manipulation)
-- leftoff 8.15
+- leftoff 9.1
