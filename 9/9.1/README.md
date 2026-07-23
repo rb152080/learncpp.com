@@ -1,0 +1,2 @@
+- test your code one function at a time
+- use asserts
