@@ -1,0 +1,1 @@
+- how to handle `std::cin` inputs, improper inputs
